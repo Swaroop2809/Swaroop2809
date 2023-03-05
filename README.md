@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/swaroop harsh" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="swaroop harsh" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/swaroop_h28" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" alt="swaroop_h28" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/swaroop-harsh-0a64a8253/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="swaroop harsh" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/swaroop_h28" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/240px-HackerRank_Icon-1000px.png" alt="swaroop_h28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
