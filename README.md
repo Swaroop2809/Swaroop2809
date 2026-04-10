@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align="center">GenAI Product Engineer building real-world AI systems</h3>
+<h3 align="center">GenAI Engineer building real-world AI systems</h3>
 
 <p align="center">
 Building RAG systems • AI Agents • Automation • LLM Applications
