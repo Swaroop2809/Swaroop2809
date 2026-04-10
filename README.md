@@ -1,80 +1,94 @@
-<!-- Banner --> 
-![Banner](./assets/banner.png)
+### Hi there 👋
 
-# Swaroop Harsh
-### GenAI Product Engineer building AI systems that people actually use
+<h3 align="center">GenAI Product Engineer building real-world AI systems</h3>
 
-I work at the intersection of product thinking, engineering, and GenAI — turning ideas into useful systems with RAG, AI agents, automation, and cloud-native workflows.
-
----
-
-## 🚀 What I Ship
-
-I do not just build demos. I build:
-- AI assistants that answer from private knowledge
-- RAG pipelines that stay grounded and searchable
-- agent workflows that automate real tasks
-- document intelligence systems that save time
-- GenAI tools that feel clean, fast, and usable
+<p align="center">
+Building RAG systems • AI Agents • Automation • LLM Applications
+</p>
 
 ---
 
-## 🎯 Current Focus
+## 🧠 About Me
 
-- Enterprise RAG with FAISS, LangChain, and LangGraph
-- AI agents and multi-step orchestration
-- LLM evaluation, retrieval quality, and response reliability
-- workflow automation with n8n
-- cloud deployment and GenAI integration
-
----
-
-## 🧠 Signature Stack
-
-Python • LangChain • LangGraph • LangSmith • FAISS • Hugging Face • OpenAI • Gemini • Claude • Llama • Granite • AWS • IBM Cloud • n8n
+- GenAI Engineer @ TCS
+- Working on **RAG, LangChain, LangGraph, AI Agents**
+- Building **AI systems that feel like products**
+- Focused on **real-world use cases, not just demos**
 
 ---
 
-## 💡 Public Work
+## 🚀 What I Work On
 
-### Enterprise RAG Assistant
-A document-grounded AI assistant for internal knowledge and fast retrieval.
-
-### Multi-Agent Workflow System
-A modular agent setup for planning, execution, and tool use.
-
-### MediScan-Pro
-AI-powered medical imaging project built with ML and deep learning.
-
-### Intelligent Workflow Automation
-LLM-driven automation across tools, APIs, and knowledge sources.
-
-### Resume Intelligence
-A practical AI utility for resume analysis, matching, and feedback.
+- 📄 Document Intelligence (PDF, embeddings, retrieval)
+- 🤖 AI Agents & Multi-agent workflows
+- 🔍 RAG pipelines with FAISS & vector DBs
+- ⚙️ Automation using n8n + LLMs
+- ☁️ Cloud GenAI systems (AWS, IBM Cloud)
 
 ---
 
-## ⭐ Why People Follow This Profile
+## 🏆 Achievements & Highlights
 
-- clear GenAI direction
-- useful repos, not random experiments
-- clean engineering, not hype
-- steady progress in public
-- practical AI thinking with product focus
+- ⚡ Built multiple GenAI systems (RAG, AI agents, automation)
+- 📈 Consistently learning and building in public
+- 🔬 Focused on production-ready AI solutions
+- 🧠 Strong foundation in ML + LLM ecosystem
 
----
-
-## 🔬 Now Building
-
-- sharper RAG pipelines
-- stronger agent workflows
-- more reliable AI product patterns
-- better demos, better READMEs, better signals
+<!-- Add real achievements later when you have -->
+<!-- Example:
+- ⭐ 100+ GitHub stars across projects
+- 👨‍💻 Contributed to open-source GenAI repos
+-->
 
 ---
 
-## 🤝 Connect
+## 📊 GitHub Stats
 
-[LinkedIn](your-linkedin-link) • [YouTube](your-youtube-link) • [Portfolio](your-portfolio-link) • [Email](your-email-link)
+<p align="center">
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Swaroop2809&show_icons=true&theme=gotham&hide_border=true"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroop2809&layout=compact&theme=gotham&hide_border=true"/>
+</p>
 
-Open to GenAI collaboration, open-source work, and product-minded AI conversations.
+---
+
+## 🏅 Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Swaroop2809&theme=darkhub&no-frame=true&margin-w=10"/>
+</p>
+
+---
+
+## 🔥 Featured Work
+
+### 🧠 RAG-based Enterprise Chatbot
+AI assistant that answers from documents with grounded responses
+
+### 🤖 Multi-Agent System (LangGraph)
+Task planning + execution using AI agents
+
+### 🏥 MediScan-Pro
+AI-powered medical diagnosis using ML/DL models
+
+### ⚙️ AI Workflow Automation
+LLM-based automation using n8n and APIs
+
+---
+
+## 🧩 Tech Stack
+
+Python • LangChain • LangGraph • LangSmith • FAISS • Hugging Face  
+OpenAI • Gemini • Claude • Llama • Granite  
+AWS • IBM Cloud • n8n
+
+---
+
+## 📡 Connect With Me
+
+[LinkedIn](your-linkedin-link)
+
+---
+
+<p align="center">
+⚡ Building GenAI systems that actually solve problems
+</p>
