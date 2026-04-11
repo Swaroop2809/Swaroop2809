@@ -1,6 +1,9 @@
 ### Hi there 👋
+<p align="center">
+  <img src="chat.svg" />
+</p>
 
-<h3 align="center">GenAI Engineer building real-world AI systems</h3>
+<h3 align="center">GenAI Developer building real-world AI systems</h3>
 
 <p align="center">
 Building RAG systems • AI Agents • Automation • LLM Applications
