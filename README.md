@@ -1,97 +1,65 @@
 ### Hi there 👋
+
 <p align="center">
-  <img src="chat.svg" />
+  <img src="chat.svg" width="700"/>
 </p>
 
 <h3 align="center">GenAI Developer building real-world AI systems</h3>
 
 <p align="center">
-Building RAG systems • AI Agents • Automation • LLM Applications
+RAG • AI Agents • Automation • LLM Applications
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About
 
-- GenAI Engineer @ TCS
-- Working on **RAG, LangChain, LangGraph, AI Agents**
-- Building **AI systems that feel like products**
-- Focused on **real-world use cases, not just demos**
-
----
-
-## 🚀 What I Work On
-
-- 📄 Document Intelligence (PDF, embeddings, retrieval)
-- 🤖 AI Agents & Multi-agent workflows
-- 🔍 RAG pipelines with FAISS & vector DBs
-- ⚙️ Automation using n8n + LLMs
-- ☁️ Cloud GenAI systems (AWS, IBM Cloud)
+- GenAI Developer @ TCS  
+- Building systems with **RAG, LangChain, LangGraph, AI Agents**  
+- Focused on **real-world AI products, not just demos**
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🚀 Work
 
-- ⚡ Built multiple GenAI systems (RAG, AI agents, automation)
-- 📈 Consistently learning and building in public
-- 🔬 Focused on production-ready AI solutions
-- 🧠 Strong foundation in ML + LLM ecosystem
-
-<!-- Add real achievements later when you have -->
-<!-- Example:
-- ⭐ 100+ GitHub stars across projects
-- 👨‍💻 Contributed to open-source GenAI repos
--->
+- Document Intelligence (PDF, embeddings, retrieval)  
+- AI Agents & multi-agent workflows  
+- RAG pipelines with FAISS & vector databases  
+- Automation using n8n + LLMs  
+- Cloud-based GenAI systems  
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Featured Projects
 
-<p align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=Swaroop2809&show_icons=true&theme=gotham&hide_border=true"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swaroop2809&layout=compact&theme=gotham&hide_border=true"/>
-</p>
+**RAG-based Enterprise Chatbot**  
+AI assistant for document-grounded responses  
 
----
+**Multi-Agent System (LangGraph)**  
+Task planning and execution using AI agents  
 
-## 🏅 Trophies
+**MediScan-Pro**  
+AI-powered medical diagnosis system  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Swaroop2809&theme=darkhub&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-## 🔥 Featured Work
-
-### 🧠 RAG-based Enterprise Chatbot
-AI assistant that answers from documents with grounded responses
-
-### 🤖 Multi-Agent System (LangGraph)
-Task planning + execution using AI agents
-
-### 🏥 MediScan-Pro
-AI-powered medical diagnosis using ML/DL models
-
-### ⚙️ AI Workflow Automation
-LLM-based automation using n8n and APIs
+**AI Workflow Automation**  
+LLM-driven automation using n8n  
 
 ---
 
-## 🧩 Tech Stack
+## 🧩 Stack
 
-Python • LangChain • LangGraph • LangSmith • FAISS • Hugging Face  
-OpenAI • Gemini • Claude • Llama • Granite  
-AWS • IBM Cloud • n8n
+Python • LangChain • LangGraph • FAISS • Hugging Face  
+OpenAI • Gemini • Claude • Llama  
+AWS • IBM Cloud • n8n  
 
 ---
 
-## 📡 Connect With Me
+## 📡 Connect
 
 [LinkedIn](your-linkedin-link)
 
 ---
 
 <p align="center">
-⚡ Building GenAI systems that actually solve problems
+Building AI systems that feel like products
 </p>
