@@ -1,0 +1,62 @@
+<svg width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text {
+      font-family: monospace;
+      font-size: 22px;
+      fill: #00F7FF;
+    }
+  </style>
+
+  <!-- Typing animation -->
+  <text x="10" y="50" class="text">
+    <tspan id="typing"></tspan>
+    <animate attributeName="opacity" values="1;1;1;0" dur="4s" fill="freeze"/>
+  </text>
+
+  <!-- Final message -->
+  <text x="10" y="50" class="text" opacity="0">
+    Hi, I’m Swaroop 👋
+    <animate attributeName="opacity" values="0;0;0;1" dur="4s" fill="freeze"/>
+  </text>
+
+  <!-- Typing animation -->
+  <text x="10" y="50" class="text">
+    <tspan id="typing"></tspan>
+    <animate attributeName="opacity" values="1;1;1;0" dur="4s" fill="freeze"/>
+  </text>
+
+  <!-- Final message -->
+  <text x="10" y="50" class="text" opacity="0">
+   GenAI Developer at TCS
+    <animate attributeName="opacity" values="0;0;0;1" dur="4s" fill="freeze"/>
+  </text>
+  
+  
+   <!-- Typing animation -->
+  <text x="10" y="50" class="text">
+    <tspan id="typing"></tspan>
+    <animate attributeName="opacity" values="1;1;1;0" dur="4s" fill="freeze"/>
+  </text>
+
+  <!-- Final message -->
+  <text x="10" y="50" class="text" opacity="0">
+   Building AI systems that feel like products
+    <animate attributeName="opacity" values="0;0;0;1" dur="4s" fill="freeze"/>
+  </text>
+  
+  <script type="application/ecmascript"><![CDATA[
+    const text = "Typing...";
+    let i = 0;
+    const typing = document.getElementById("typing");
+
+    function type() {
+      if (i < text.length) {
+        typing.textContent += text.charAt(i);
+        i++;
+        setTimeout(type, 200);
+      }
+    }
+
+    type();
+  ]]></script>
+</svg>
