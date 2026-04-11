@@ -56,7 +56,7 @@ AWS • IBM Cloud • n8n
 
 ## 📡 Connect
 
-[LinkedIn](your-linkedin-link)
+[LinkedIn](https://www.linkedin.com/in/swaroop-harsh-0a64a8253/)
 
 ---
 
