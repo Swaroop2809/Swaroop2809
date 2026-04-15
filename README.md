@@ -48,9 +48,9 @@ LLM-driven automation using n8n
 
 ## 🧩 Stack
 
-Python • LangChain • LangGraph • FAISS • Hugging Face  
+Python • LangChain • LangGraph • Langsmith • FAISS • Hugging Face  
 OpenAI • Gemini • Claude • Llama  
-AWS • IBM Cloud • n8n  
+AWS • IBM Cloud • n8n  • CrewAI
 
 ---
 
